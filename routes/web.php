@@ -12,8 +12,4 @@
 */
 Route::get('/', 'StaticPagesController@home');
 Route::get('/help', 'StaticPagesController@help');
-<<<<<<< HEAD
 Route::get('/about', 'StaticPagesController@about');
-=======
-Route::get('/about', 'StaticPagesController@about');
->>>>>>> static-pages
